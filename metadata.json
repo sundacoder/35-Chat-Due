@@ -1,0 +1,5 @@
+{
+  "name": "35 Chat",
+  "description": "A powerful ChatPDF-style application using Gemini embeddings and RAG (Retrieval Augmented Generation) to answer questions strictly from uploaded PDF documents.",
+  "requestFramePermissions": []
+}
